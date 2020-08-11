@@ -1,6 +1,8 @@
 # PhoneNumberFormatWebAPI
 Web API to edit phone numbers into user recognisable format
 
+- Phone number formatting code in PhoneNumberFormatAPI/Models/PhoneNumberItem.cs
+
 # Software / Installs / Extensions
 - MacOS Catalina v10.15.5
 - Visual studio code v1.47.3
